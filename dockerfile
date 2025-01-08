@@ -1,5 +1,5 @@
 # Imagen base oficial de Node.js
-FROM node:16
+FROM node:18.18
 
 # Directorio de trabajo en el contenedor
 WORKDIR /usr/src/app
