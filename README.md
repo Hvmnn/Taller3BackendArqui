@@ -27,7 +27,7 @@ npm install
 
 ## Configuración de la Base de Datos
 
-1. Cambia el nombre del archivo `.env.example` a `.env`.
+1. Crea el archivo `.env` en la carpeta raiz del proyecto "TALLER3BACKENDARQUI".
 2. Edita el archivo `.env` y completa las variables de entorno con tu configuración local:
 
 ```bash
